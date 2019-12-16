@@ -12,7 +12,7 @@ plugins:
 - jekyll-paginate
 
 # Site settings
-url: 'https://inspiring-wilson-e8a42b.netlify.com'
+url: ''
 baseurl: ''
 title: 'DunjunHexplorer Blog'
 description: 'just talkin bout stuff'
