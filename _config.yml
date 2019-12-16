@@ -17,7 +17,7 @@ baseurl: ''
 title: 'DunjunHexplorer Blog'
 description: 'just talkin bout stuff'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=136"
+logo: "https://secure.gravatar.com/avatar/61fdbdcb21a5bfc7d0bfd974fdc60703"
 
 # Pagination
 paginate: 5
