@@ -13,7 +13,7 @@ plugins:
 
 # Site settings
 url: 'https://inspiring-wilson-e8a42b.netlify.com'
-baseurl: 'https://inspiring-wilson-e8a42b.netlify.com'
+baseurl: ''
 title: 'DunjunHexplorer Blog'
 description: 'just talkin bout stuff'
 permalink: pretty
